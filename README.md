@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Dashboard-using-Power-Bi
+# Coffee-Shop-Sales-Dashboard-using-Power-Bi and MySql
 This project combines MySQL and Power BI to analyze monthly sales data, with February 2023 selected in the dropdown. It tracks total sales ($76K), total orders (16K), and total quantity sold (24K) with month-over-month comparisons. Key features include date filtering, sales trends, category & product breakdowns, and weekday vs. weekend analysis (70.92% of sales on weekdays).
 
 Skills Used:
